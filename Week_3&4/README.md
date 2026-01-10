@@ -11,6 +11,8 @@ Link to the dataset: [BRaTS 2021 Dataset](https://www.kaggle.com/datasets/dschet
 The theory guide for the project can be found here: [Theory Guide](https://docs.google.com/document/d/1_FPFWqnD06kb9QH93hEePEFe_FTZRMp1MgsGIDm8nDc/edit?tab=t.0#heading=h.kxvpgxpt58uh)
 
 
+# My description:
+
 
 # Brain Tumor Segmentation using U-Net (BraTS 2021)
 
@@ -147,3 +149,4 @@ This project demonstrates how deep learning can be effectively used for medical 
 The U-Net model provides a reliable baseline for brain tumor segmentation and can be further improved with more training, data augmentation, and multi-modal MRI inputs.
 
 ---
+
